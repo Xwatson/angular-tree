@@ -1,7 +1,6 @@
 # angular-tree
   递归实现tree
-  
-  #使用方法
+### 使用方法
     数据模型：
       $scope.tree=[
 			{
@@ -42,5 +41,5 @@
 			},
 			...........
 		]
-	页面使用
+### 页面使用
 	  <pl4-tree result="tree"></pl4-tree>
